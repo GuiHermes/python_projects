@@ -1,0 +1,5 @@
+1 - Aleatorizador de Salmos (Passagens ) da biblia
+2 - Manipulador de dados
+3 - Interface grafica
+4 - editar um txt com python 
+5 -  adicionar jogos seguidos
